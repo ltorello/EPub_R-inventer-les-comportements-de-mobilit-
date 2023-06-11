@@ -22,7 +22,7 @@ Ce projet est très simple, mais son auteure partait avec des connaissances info
 * Kindle Previewer 3 : conversion du fichier ePub aux formats .mobi et .kpf pour la lecture sur une liseuse Kindle.
 
 ## A propos du document source
-Le document utilisé pour réaliser ce projet est une publication de la Fondation Jean Monnet éditée dans le cadre du groupe de réflexion 2016-2019 consacré à la mobilité durable. 
+Le document utilisé pour réaliser ce projet est une publication de la Fondation Jean Monnet éditée dans le cadre du groupe de réflexion 2016-2019 consacré à la mobilité durable. Cette publication est disponible en Open Access sur le [site internet](https://jean-monnet.ch/publication/liste-complete/) de la Fondation Jean Monnet.
 
 ## Notice d'utilisation
 1) Télécharger le dossier "ePub_Final"
