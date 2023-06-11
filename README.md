@@ -34,7 +34,7 @@ Le document utilisé pour réaliser ce projet est une publication de la Fondatio
 
 ## Utilité du dossier "XHTML_Images_CSS"
 
-Les fichiers qui composent ce dossiers ont été fournis pour faciliter l'évaluation. Ils permettent de voir comment le ePub est composé. Il n'est en principe pas nécessaire de télécharger ce dossier. On peut aussi ouvrir le fichier .epub qui se trouve dans le dossier "ePub_final" avec Sigil et utiliser la vue "balisage" (<>).
+Les fichiers qui composent ce dossiers ont été fournis pour faciliter l'évaluation. Pour accéder aux images, aux fichiers XHTML et à la feuille de style, ouvrir le dossier XHTML_Images_CSS et ensuite le dossier OEBPS. Ce dossier permet de voir comment le ePub est composé. Il n'est en principe pas nécessaire de le télécharger. On peut aussi ouvrir le fichier .epub qui se trouve dans le dossier "ePub_final" avec Sigil et utiliser la vue "balisage" (<>).
 
 ## Mise à jour des données
 
@@ -47,5 +47,6 @@ Ce projet a été réalisé par Laure Torello dans le cadre du cours Publication
 ## Crédits
 
 Isaac Pante : présentation en classe des spécificités du format ePub et du logiciel Sigil
+
 Le YouTubeur Jesuiscurieux pour son [tutoriel très détaillé](https://www.youtube.com/watch?v=-CpzHoTtZlQ&t=198s) consacré à la création de livres numériques avec Sigil. 
 
