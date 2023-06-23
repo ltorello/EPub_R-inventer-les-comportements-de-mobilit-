@@ -1,4 +1,4 @@
-# Projet_EPub_Corrections
+# EPub Réinventer les comportements de mobilité
 Dépôt du projet de publication numérique
 
 # Création d'un ePub
